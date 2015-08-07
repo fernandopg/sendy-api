@@ -5,4 +5,4 @@
 .DS_Store
 vendor/*
 app/config-env.php
-
+/nbproject/
